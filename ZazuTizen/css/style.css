@@ -1,0 +1,58 @@
+body {
+    background: #000;
+    overflow: hidden;
+}
+
+#main-bg {
+    background: #000;
+}
+
+#banner-info {
+    padding-left: 10vw;
+}
+
+#heading {
+    margin-top: 20%;
+    font-family:NotoSans-SemiBold;
+    font-size:72px;
+    color:#f3f3f3;
+    letter-spacing:0;
+    line-height:67.99px;
+    text-align:left;
+}
+
+#subinfo {
+    font-family:NotoSans-SemiBold;
+    font-size:28px;
+    color:#8e8e8e;
+    letter-spacing:0;
+    text-align:left;
+}
+
+#introduction {
+    font-family:Roboto-Medium;
+    font-size:28px;
+    color:#8e8e8e;
+    letter-spacing:0;
+    line-height:28px;
+    text-align:left;
+}
+
+
+#content {
+    height: 40vh;
+    margin-top: -48vh;
+}
+
+.theme-heading {
+    /* Được đề cử: */
+    font-family: Roboto-Medium;
+    font-size: 32px;
+    color: #E7E7E7;
+    letter-spacing: 0;
+    line-height: 101.6px;
+}
+
+.thumb-list {
+    margin-left: 10vw;
+}
